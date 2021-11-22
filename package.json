@@ -1,0 +1,14 @@
+{
+  "name": "track-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "@types/os-utils": "^0.0.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "os-utils": "^0.0.14"
+  }
+}
